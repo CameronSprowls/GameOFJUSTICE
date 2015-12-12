@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ Method\r\n
+comment1.params=
+comment1.target=GUI()
+comment1.text=\r\n\ constructor\ installs\ all\ of\ the\ GUI\ components\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ This\ method\ is\ called\ when\ any\ button\ is\ clicked.\ \ The\ proper\r\n\ internal\ method\ is\ called\ as\ needed.\r\n\ \r\n\ @param\ e\ the\ event\ that\ was\ fired\r\n
+comment3.params=
+comment3.target=void\ gameIsOver()
+comment3.text=\r\n\ Method\ disable\ all\ of\ the\ buttons\ and\ print\ one\ last\ message\r\n
+comment4.params=
+comment4.target=void\ newGame()
+comment4.text=\r\n\ Method\ to\ enable\ all\ of\ the\ buttons\ and\ restart\ message\r\n
+numComments=5
