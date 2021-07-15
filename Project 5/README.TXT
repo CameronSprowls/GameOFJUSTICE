@@ -10,7 +10,7 @@ hints are, can you be the first?)
 PROJECT TITLE: 
 PURPOSE OF PROJECT: Project for school, updated for person desires
 VERSION or DATE: 1.2
-HOW TO START THIS PROJECT: Sinple Java file, if I remember correctly
+HOW TO START THIS PROJECT: Simple Java file, if I remember correctly
 AUTHORS: Cameron Sprowls
 USER INSTRUCTIONS: It's very annoying to beat this game, and it's a little
 unfair at points, but I'd love it if you could figure it out!
